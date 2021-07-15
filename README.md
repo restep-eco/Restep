@@ -1,8 +1,12 @@
 # Restep
 The Restep Power System is currently composed of four Modules:
+
 The Mother Module: the foundation of the power system, much like a Motherboard in a computer
+
 The Battery Charger Module: provides battery charge control, MPPT, and system voltage control
+
 The Off-Line Module: provides power input from a wall outlet
+
 The PV Module: provides power input from a photovoltaic panel
   
 All four Modules are at an initial release phase (Rev.X1) 7/14/21. This revision is a prototype release. No Modules are fully tested or qualified.
