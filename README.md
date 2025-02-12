@@ -29,4 +29,4 @@ LTSpice circuit models (.asc), Mathcad (.mcdx), and Excel (.xlsx/.xlsm) design f
 (https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 (https://www.mathcad.com/en)
 
-Visit www.restep.eco for more information.
+Visit www.chris-arntzen.com/restep for more information.
